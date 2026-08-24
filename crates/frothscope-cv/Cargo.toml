@@ -1,0 +1,9 @@
+[package]
+name = "frothscope-cv"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+opencv.workspace = true
+anyhow.workspace = true
+rayon.workspace = true
